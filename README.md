@@ -1,2 +1,2 @@
-# electricity_lesson_1
-Introduction to Database Design - Electricity
+# electricity_lesson
+Introduction to Database Design - Electricity - Retail Sales
